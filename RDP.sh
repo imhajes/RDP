@@ -1,6 +1,4 @@
 #! /bin/bash
-printf "Check Out My Channel While Waiting- https://youtu.be/VeO22kIvZOQ" >&2
-{
 sudo useradd -m ALOK
 sudo adduser ALOK sudo
 echo 'ALOK:8426' | sudo chpasswd
